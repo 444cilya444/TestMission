@@ -1,6 +1,0 @@
-C:\Users\mrsky\source\repos\Test\TestMyLib\bin\Debug\TestMyLib.dll
-C:\Users\mrsky\source\repos\Test\TestMyLib\bin\Debug\TestMyLib.pdb
-C:\Users\mrsky\source\repos\Test\TestMyLib\obj\Debug\TestMyLib.csproj.AssemblyReference.cache
-C:\Users\mrsky\source\repos\Test\TestMyLib\obj\Debug\TestMyLib.csproj.CoreCompileInputs.cache
-C:\Users\mrsky\source\repos\Test\TestMyLib\obj\Debug\TestMyLib.dll
-C:\Users\mrsky\source\repos\Test\TestMyLib\obj\Debug\TestMyLib.pdb
