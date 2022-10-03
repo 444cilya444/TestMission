@@ -6,3 +6,11 @@ C:\Users\mrsky\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBi
 C:\Users\mrsky\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\mrsky\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\mrsky\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\bin\Debug\ConsoleApp2.exe.config
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\bin\Debug\ConsoleApp2.exe
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\bin\Debug\ConsoleApp2.pdb
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\obj\Debug\ConsoleApp2.exe
+C:\Users\mrsky\source\repos\TestMission\Задание с сортировкой массива\obj\Debug\ConsoleApp2.pdb
